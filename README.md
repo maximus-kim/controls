@@ -1,2 +1,2 @@
 # controls
-Controls online and book notes
+Controls online course and book notes
