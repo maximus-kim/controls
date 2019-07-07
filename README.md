@@ -1,2 +1,2 @@
 # controls
-Controls online and book notes
+This repository will include detailed notes following the AP Monitor course.
