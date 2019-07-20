@@ -8,7 +8,7 @@ ns = 1200
 t = np.linspace(0,ns,ns+1)
 
 # mode (manual=0, automatic=1)
-mode = 1
+mode = 1 # on/off selection
 
 class model(object):
     # process model
