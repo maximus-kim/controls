@@ -1,0 +1,3 @@
+[submodule "tclab_jupyter"]
+	path = tclab_jupyter
+	url = https://github.com/evertoncolling/tclab_jupyter.git
